@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jenifer6002.github.io/joao-paulo-site/sitemap.xml

@@ -22,15 +22,18 @@ body {
 }
 
 .hero {
-  background: linear-gradient(135deg, #2f80ed 0%, #56ccf2 100%);
-  color: white;
-  padding: 5rem 0;
-  text-align: center;
+  background-image: url('ChatGPT Image 22 de jun. de 2026, 18_30_27.png');
+  background-size: contain;
+  background-position: 15% center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #000;
+  padding: 0;
+  min-height: 75vh;
 }
 
-.hero h1 {
-  font-size: clamp(2.5rem, 5vw, 4rem);
-  margin: 0 0 1rem;
+.hero .hero-content {
+  display: none;
 }
 
 .hero p {
